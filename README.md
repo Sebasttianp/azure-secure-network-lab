@@ -25,3 +25,16 @@ the attack surface.
 - Learned how Azure VNets and subnets are structured
 - Gained experience with NSGs and firewall rules
 - Understood how segmentation improves cloud security
+## Screenshots
+
+### Public Subnet NSG (Restricted Access)
+![Public NSG](public-nsg-inbound-rules.png)
+
+### Private Subnet NSG (Default Deny)
+![Private NSG](private-nsg-default-deny.png)
+
+### NSG to Subnet Association
+![NSG Association](public-nsg-subnet-association.png)
+
+### NSG to Subnet Association
+![NSG Association](private-nsg-subnet-association.png)
